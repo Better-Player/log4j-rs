@@ -7,6 +7,9 @@ description = "Library to log to Java's log4j from Rust"
 license = "Apache-2.0 OR MIT"
 keywords = ["Java", "JNI", "log4j", "logging"]
 categories = ["api-bindings", "development-tools::ffi", "external-ffi-bindigns"]
+repository = "https://github.com/Better-Player/log4j-rs"
+homepage = "https://github.com/Better-Player/log4j-rs"
+readme = "https://github.com/Better-Player/log4j-rs/tree/master/README.md"
 
 [dependencies]
 jni = "0.19.0"
