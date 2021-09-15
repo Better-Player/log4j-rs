@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2018"
 authors = ["Tobias de Bruijn <t.debruijn@array21.dev>"]
 description = "Library to log to Java's log4j from Rust"
-licence = "Apache-2.0 OR MIT"
+license = "Apache-2.0 OR MIT"
 keywords = ["Java", "JNI", "log4j", "logging"]
 categories = ["api-bindings", "development-tools::ffi", "external-ffi-bindigns"]
 

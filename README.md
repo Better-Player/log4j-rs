@@ -17,5 +17,5 @@ logger.log(LogLevel::Info, "Info!").expect("Failed to log to INFO level");
 logger.log(LogLevel::Debug, "Debug!").expect("Failed to log to DEBUG level");
 ```
 
-## Licence
-`log4j-rs` is dual licenced under the Apache-2.0 and MIT licence, at your descretion
+## License
+`log4j-rs` is dual licensed under the Apache-2.0 and MIT license, at your discretion
