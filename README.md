@@ -1,4 +1,5 @@
 # log4j-rs
+![Crates.io](https://img.shields.io/crates/v/log4j?style=flat)  
 This crate allows a Rust developer to easily log to Java's Log4j from Rust.
 
 ## Usage
